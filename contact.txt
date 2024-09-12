@@ -1,3 +1,7 @@
 hello Rahul how are you?
 fine # comment from rahul
+<<<<<<< HEAD
 #comment dir2
+=======
+#comment from dir2
+>>>>>>> 4e6af1e5341ebd463e331aff507c8d1e54c3c34e
