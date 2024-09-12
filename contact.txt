@@ -1,8 +1,16 @@
 hello Rahul how are you?
 fine # comment from rahul
+<<<<<<< HEAD
 
 
 #comment from dir2
 
 
 #commit from user1
+=======
+<<<<<<< HEAD
+#comment dir2
+=======
+#comment from dir2
+>>>>>>> 4e6af1e5341ebd463e331aff507c8d1e54c3c34e
+>>>>>>> d4d4f2988d18df40b2aa4e211f9f17ebce7dc3e9
